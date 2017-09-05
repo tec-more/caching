@@ -1,0 +1,22 @@
+{
+    "name": "tec-more/caching",
+    "description": "Tukecx caching",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tukecx",
+            "email": "support@tukecx.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tukecx\\Base\\Caching\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}

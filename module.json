@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-caching",
+    "name": "Caching",
+    "author": "Tukecx",
+    "description": "Caching management package.",
+    "namespace": "Tukecx\\Base\\Caching",
+    "autoload": "psr-4"
+}
